@@ -1,0 +1,47 @@
+.login {
+  width: 90%;
+  max-width: 40rem;
+  padding: 3rem;
+  margin: 2rem auto;
+  text-align: center;
+}
+
+.image{
+  width: 30px;
+  margin-left: 10px;
+}
+
+.button {
+  font: inherit;
+  border: 1px solid #3d3aff;
+  background: #3d3aff;
+  color: white;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 14px;
+  border-radius: 10px;
+}
+
+.button:hover,
+.button:active {
+  background: #3d3aff;
+  border-color: #3d3aff;
+}
+
+.button:focus {
+  outline: none;
+}
+
+button:disabled,
+button:focus:disabled,
+button:hover:disabled,
+button:active:disabled {
+  background: #ccc;
+  border-color: #ccc;
+  color: #666666;
+  cursor: not-allowed;
+}
+
+
+
+

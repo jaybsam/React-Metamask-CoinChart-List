@@ -1,0 +1,16 @@
+body {
+/*	background:#141414;*/
+	color: #fff;
+}
+.table{
+	font-weight: 700 !important;
+}
+.navbar-collapse> form{
+	position: absolute;
+	right: 30px;
+}
+
+.image{
+	width: 30px;
+	margin-left: 10px;
+  }
